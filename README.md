@@ -20,18 +20,18 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Soy **Desarrollador Backend y Arquitecto de Software**, enfocado en el ecosistema **Java y Spring Boot**, con un fuerte compromiso hacia las buenas prácticas, la arquitectura limpia y la mejora continua.
+Soy **Desarrollador Backend**, enfocado en el ecosistema **Java y Spring Boot**, con un fuerte compromiso hacia las buenas prácticas, la arquitectura limpia y la mejora continua.
 
 ---
 
 ### 💡 Sobre mí
 
-- 🎯 **Rol actual:** Desarrollador Backend / Arquitecto de Software  
+- 🎯 **Rol actual:** Desarrollador Backend
 - 🧠 **Enfoque:** Diseño de arquitecturas REST, procesamiento de datos y entornos Docker.  
 - ⚙️ **Experiencia:** Integración de APIs, automatización y CI/CD básico.  
 - 🚀 **Objetivo:** Participar en proyectos desafiantes que impulsen mi crecimiento técnico.  
 - 🤝 **Colaboración:** Disfruto trabajar en equipo y aportar soluciones escalables.  
-- ☕ **Fun fact:** Nunca empiezo el día sin un buen café ☕.  
+- ☕ **Fun fact:** Aprendí inglés avanzado puramente mirando videos en Youtube.  
 
 ---
 
